@@ -1,3 +1,0 @@
-loadstring(game:HttpGet("https://api.luauth.xyz/hwid.txt"))()
-task.wait()
-game:GetService("Players").LocalPlayer:Kick("HWID Copied to clipboard.")
